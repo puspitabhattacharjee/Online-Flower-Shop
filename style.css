@@ -193,7 +193,7 @@
 .aboutus{
     display: flex;
     justify-content: space-around;
-    background-color: #f3a2c9;
+    background-color: #f3a2c93f;
     padding: 100px;
 }
 .aboutus .about-text{
